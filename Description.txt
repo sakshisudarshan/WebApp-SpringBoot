@@ -1,0 +1,7 @@
+* Technologies Used :
+    Java: Programming language used for development.
+    Spring Boot: Framework for building the web application.
+    Spring Data JPA: For database interaction.
+    H2 Database: In-memory database for development and testing.
+    Postman: Tool for API testing.
+    IntelliJ IDEA: Integrated Development Environment (IDE) used for development.
